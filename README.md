@@ -1,2 +1,0 @@
-# Ecommerce website
- using django
